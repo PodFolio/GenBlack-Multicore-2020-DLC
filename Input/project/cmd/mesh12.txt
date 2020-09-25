@@ -1,0 +1,9 @@
+#MESH 12
+
+mesh 1
+
+DELETE_ALL
+
+
+
+write out\mesh12.part
