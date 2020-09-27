@@ -1,0 +1,1 @@
+start C:\Python27\Lib\idlelib\idle.pyw -r F:\LFS\gen_black\dist\template.py

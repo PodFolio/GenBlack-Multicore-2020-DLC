@@ -1,0 +1,1 @@
+start cmd /K F:\LFS\gen_black\dist\template.py
