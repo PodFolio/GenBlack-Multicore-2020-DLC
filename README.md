@@ -1,11 +1,10 @@
-<p align="center">GenBlack Multicore by
-- EvolutionBG <https://www.youtube.com/channel/UCaqpQhZLBMO8V1bdW9bTgXQ>
-- Draggo <https://podfolio.eu/>
-Big thanks for testing to DMN' <https://dmnmods.blogspot.com/></p>
+# __GenBlack Multicore 2020 DLC__
+by __[EvolutionBG](https://www.youtube.com/channel/UCaqpQhZLBMO8V1bdW9bTgXQ)__ and __[Draggo](https://podfolio.eu/)__<br>
+__Big thanks for testing to [DMN'](https://dmnmods.blogspot.com/)__
 
 [![GitHub release](https://img.shields.io/github/release/PodFolio/GenBlack-Multicore-2020-DLC.svg?logo=github)](https://github.com/PodFolio/GenBlack-Multicore-2020-DLC/releases/latest)
 
-##Instructions
+## Instructions
 Extract to gen_black main directory
 
 Use config.py to set default working directories
@@ -23,14 +22,14 @@ Use "join files.bat" to join files into XR.vob
 
 Sadly render_template command cause errors when two or more mesh .py files try to render template using this same jpg file. For render_template you can use template.py file, but as we all know gen_black has a problem with reading through own generated files so it will be not always work, so you can edit one of "run" bat files for example:
 
-all files below start at once
-start C:\Python27\Lib\idlelib\idle.pyw -r F:\LFS\gen_black\dist\mesh8.py
-start C:\Python27\Lib\idlelib\idle.pyw -r F:\LFS\gen_black\dist\mesh7.py
-every file below start separately
-C:\Python27\Lib\idlelib\idle.pyw -r F:\LFS\gen_black\dist\mesh6.py
-C:\Python27\Lib\idlelib\idle.pyw -r F:\LFS\gen_black\dist\mesh1-5.py
+all files below start at once<br>
+start C:\Python27\Lib\idlelib\idle.pyw -r F:\LFS\gen_black\dist\mesh8.py<br>
+start C:\Python27\Lib\idlelib\idle.pyw -r F:\LFS\gen_black\dist\mesh7.py<br>
+every file below start separately<br>
+C:\Python27\Lib\idlelib\idle.pyw -r F:\LFS\gen_black\dist\mesh6.py<br>
+C:\Python27\Lib\idlelib\idle.pyw -r F:\LFS\gen_black\dist\mesh1-5.py<br>
 
-##VOB Parts
+## VOB Parts
 | FILE | CONTAINS |
 |:--:| -- |
 | main.vob| main (mesh1) |
@@ -38,8 +37,6 @@ C:\Python27\Lib\idlelib\idle.pyw -r F:\LFS\gen_black\dist\mesh1-5.py
 | | front brake caliper (mesh3) |
 | | rear brake caliper (mesh4) |
 | | central rearview mirror mesh (mesh5) |
-|:--:| -- |
 | mesh_fix.vob | one default mirror fix enabled mesh (mesh1) |
-|:--:| -- |
 | mesh_off.vob | one default mirror fix disabled mesh (mesh1) |
 
