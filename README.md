@@ -4,6 +4,8 @@ __Big thanks for testing to [DMN'](https://dmnmods.blogspot.com/)__
 
 [![GitHub release](https://img.shields.io/github/release/PodFolio/GenBlack-Multicore-2020-DLC.svg?logo=github)](https://github.com/PodFolio/GenBlack-Multicore-2020-DLC/releases/latest)
 
+- [Download](https://github.com/PodFolio/GenBlack-Multicore-2020-DLC/releases/latest)
+
 ## Instructions
 Extract to gen_black main directory
 
