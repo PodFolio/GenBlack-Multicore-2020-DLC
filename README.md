@@ -1,13 +1,16 @@
-GenBlack Multicore by
-- EvolutionBG https://www.youtube.com/channel/UCaqpQhZLBMO8V1bdW9bTgXQ
-- Draggo https://podfolio.eu/
-Big thanks for testing to DMN' https://dmnmods.blogspot.com/
+<p align="center">GenBlack Multicore by
+- EvolutionBG <https://www.youtube.com/channel/UCaqpQhZLBMO8V1bdW9bTgXQ>
+- Draggo <https://podfolio.eu/>
+Big thanks for testing to DMN' <https://dmnmods.blogspot.com/></p>
 
+[![GitHub release](https://img.shields.io/github/release/PodFolio/GenBlack-Multicore-2020-DLC.svg?logo=github)](https://github.com/PodFolio/GenBlack-Multicore-2020-DLC/releases/latest)
+
+##Instructions
 Extract to gen_black main directory
 
 Use config.py to set default working directories
 
-Edit mesh6-24.py to chose what type of mesh you want to use mirror_fix.vob (mirror fix enabled mesh [for example this mod use this type of mesh https://dmnmods.blogspot.com/2020/07/nissan-skyline-r33-gt-r-vspec-97-rhd-10v.html]) or mesh_off.vob (mirror fix disabled mesh).
+Edit mesh6-24.py to chose what type of mesh you want to use mirror_fix.vob (mirror fix enabled mesh [for example this mod use this type of mesh](https://dmnmods.blogspot.com/2020/07/nissan-skyline-r33-gt-r-vspec-97-rhd-10v.html)) or mesh_off.vob (mirror fix disabled mesh).
 mesh1-5.py use main.vob that contains main mesh, steering wheel mesh, front brake caliper mesh, rear brake caliper mesh, central rearview mirror mesh
 
 Edit path destinations to mesh .py files in "run.bat" and "run without stops.bat", and python directory in "run with IDLE.bat"
@@ -27,16 +30,16 @@ every file below start separately
 C:\Python27\Lib\idlelib\idle.pyw -r F:\LFS\gen_black\dist\mesh6.py
 C:\Python27\Lib\idlelib\idle.pyw -r F:\LFS\gen_black\dist\mesh1-5.py
 
----------------------------------------------------------------------
-|    FILE     |		            CONTAINS                              |
-|-------------------------------------------------------------------|
-|main.vob     | main (mesh1)                                        |
-|             | steering wheel mesh (mesh2)                         |
-|             | front brake caliper (mesh3)                         |
-|             | rear brake caliper (mesh4)                          |
-|             | central rearview mirror mesh (mesh5)                |
-|-------------|-----------------------------------------------------|
-|mesh_fix.vob	| one default mirror fix enabled mesh (mesh1)         |
-|-------------|-----------------------------------------------------|
-|mesh_off.vob	| one default mirror fix disabled mesh (mesh1)        |
----------------------------------------------------------------------
+##VOB Parts
+| FILE | CONTAINS |
+|:--:| -- |
+| main.vob| main (mesh1) |
+| | steering wheel mesh (mesh2) |
+| | front brake caliper (mesh3) |
+| | rear brake caliper (mesh4) |
+| | central rearview mirror mesh (mesh5) |
+|:--:| -- |
+| mesh_fix.vob | one default mirror fix enabled mesh (mesh1) |
+|:--:| -- |
+| mesh_off.vob | one default mirror fix disabled mesh (mesh1) |
+
