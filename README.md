@@ -6,6 +6,8 @@ by __[EvolutionBG](https://www.youtube.com/channel/UCaqpQhZLBMO8V1bdW9bTgXQ)__ a
 
 - [Download](https://github.com/PodFolio/GenBlack-Multicore-2020-DLC/releases/latest)
 
+[![GenBlack 2020 DLC](https://img.youtube.com/vi/APL2Di4R_jw/0.jpg)](https://www.youtube.com/watch?v=APL2Di4R_jw)
+
 ## Instructions
 Extract to gen_black main directory
 
