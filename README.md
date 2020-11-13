@@ -16,6 +16,9 @@ pypy vs python comparsion<br>
 [![pypy vs python comparsion](https://img.youtube.com/vi/YnjJE7KdSGs/0.jpg)](https://www.youtube.com/watch?v=YnjJE7KdSGs)
 
 ## Instructions
+Instalation tutorial by __[DMN'](https://dmnmods.blogspot.com/)__<br>
+[![Instalation tutorial by DMN'](https://img.youtube.com/vi/e5ig4Th8moU/0.jpg)](https://www.youtube.com/watch?v=e5ig4Th8moU)
+
 Extract to gen_black main directory
 
 Use config.py to set default working directories
