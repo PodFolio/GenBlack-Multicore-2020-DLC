@@ -21,7 +21,7 @@ Extract to gen_black main directory
 Use config.py to set default working directories
 
 Edit mesh6-24.py to chose what type of mesh you want to use mirror_fix.vob (mirror fix enabled mesh [for example this mod use this type of mesh](https://dmnmods.blogspot.com/2020/07/nissan-skyline-r33-gt-r-vspec-97-rhd-10v.html)) or mesh_off.vob (mirror fix disabled mesh).
-mesh1-5.py use main.vob that contains main mesh, steering wheel mesh, front brake caliper mesh, rear brake caliper mesh, central rearview mirror mesh
+mesh1-5.py use xr_main.vob/xf_main.vob/fb_main.vob that contains main mesh, steering wheel mesh, front brake caliper mesh, rear brake caliper mesh, central rearview mirror mesh
 
 Edit path destinations to mesh .py files in "run.bat" and "run without stops.bat", and python directory in "run with IDLE.bat"
 
@@ -43,11 +43,20 @@ C:\Python27\Lib\idlelib\idle.pyw -r F:\LFS\gen_black\dist\mesh1-5.py<br>
 ## VOB Parts
 | FILE | CONTAINS |
 |:--:| -- |
-| main.vob| main (mesh1) |
+| xr_main.vob| main (mesh1) |
 | | steering wheel mesh (mesh2) |
 | | front brake caliper (mesh3) |
 | | rear brake caliper (mesh4) |
 | | central rearview mirror mesh (mesh5) |
+| xf_main.vob| main (mesh1) |
+| | steering wheel mesh (mesh2) |
+| | front brake caliper (mesh3) |
+| | rear brake caliper (mesh4) |
+| | central rearview mirror mesh (mesh5) |
+| fb_main.vob| main (mesh1) |
+| | steering wheel mesh (mesh2) |
+| | front brake caliper (mesh3) |
+| | rear brake caliper (mesh4) |
 | mesh_fix.vob | one default mirror fix enabled mesh (mesh1) |
 | mesh_off.vob | one default mirror fix disabled mesh (mesh1) |
 

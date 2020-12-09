@@ -11,6 +11,6 @@ import os
 import gen_black
 
 os.chdir( config.base_dir)
-gen_black.process( config.file_command+"mesh1-5.txt", config.file_input+"main.vob" )
+gen_black.process( config.file_command+"mesh1-5.txt", config.file_input+"xr_main.vob" )
 
 print "DONE"
