@@ -1,0 +1,9 @@
+#MESH 33
+
+mesh 1
+
+DELETE_ALL
+
+
+
+write out\mesh33.part

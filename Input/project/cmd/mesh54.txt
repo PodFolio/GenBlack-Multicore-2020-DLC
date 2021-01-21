@@ -1,0 +1,9 @@
+#MESH 54
+
+mesh 1
+
+DELETE_ALL
+
+
+
+write out\mesh54.part
