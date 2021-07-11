@@ -1,5 +1,5 @@
 # __GenBlack Multicore 2020 DLC__
-by __[EvolutionBG](https://www.youtube.com/channel/UCaqpQhZLBMO8V1bdW9bTgXQ)__ and __[Draggo](https://podfolio.eu/)__<br>
+by __[EvolutionBG](https://evolutionbgmods.weebly.com)__ and __[Draggo](https://podfolio.eu/)__<br>
 *Big thanks for testing to* __[DMN'](https://dmnmods.blogspot.com/)__
 
 [![GitHub release](https://img.shields.io/github/release/PodFolio/GenBlack-Multicore-2020-DLC.svg?logo=github)](https://github.com/PodFolio/GenBlack-Multicore-2020-DLC/releases/latest)
